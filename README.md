@@ -3,28 +3,27 @@
 
 ## About me
 
-- 🎓 Currently in **3rd year at Epitech**, looking for a **4-month internship (April → July)**  
-- 🤖 Passionate about **Artificial Intelligence** since I was 13  
-- 🔭 Interested in **machine learning, reinforcement learning, robotics & low-level systems**
+- 🤖 Passionate about **Artificial Intelligence**
+- 🔭 Interested in **machine learning, reinforcement learning & low-level systems**
 - 🚗 Worked on an **autonomous driving AI for a 1/10 scale car**, using PyTorch & virtual simulations  
-- 🧠 Building a **neural network from scratch** as an ongoing project  
 - 🎓 Holder of an **NVIDIA certification** in machine learning  
 
 ## What I work with
 
 - 🧵 **C / C++** — strong foundations from Epitech  
 - 🐍 **Python** — ML projects, PyTorch, Django basics  
-- 🗄️ Databases — SQL, project structuring, backend foundations  
+- 🗄️ Databases — PostgreSQL, SQL, project structuring, backend foundations  
 - 🖥️ Explored: **graphics**, **DevOps**, **functional programming**, **network programming**
 
 ## Experience
 
-- 🏢 **Orange** — web frameworks, backend development, team workflow & professionalism  
+- 🏢 **Orange** — web frameworks, backend development, team workflow & professionalism
+- 🎓 **Epitech** — Pedagogical mentor in 2nd and 3rd year — student support, project guidance, and technical assistance
 - 🎓 Multiple school & personal projects focusing on:
   - AI prototypes  
   - network systems  
   - simulators  
-  - distributed logic  
+  - distributed logic
 
 ## My skills
 
